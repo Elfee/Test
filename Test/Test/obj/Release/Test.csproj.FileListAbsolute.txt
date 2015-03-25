@@ -1,0 +1,5 @@
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Test\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Test\Test\bin\Release\Test.exe
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Test\Test\bin\Release\Test.pdb
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Test\Test\obj\Release\Test.exe
+C:\Users\Skynet\Documents\Visual Studio 2008\Projects\Test\Test\obj\Release\Test.pdb
